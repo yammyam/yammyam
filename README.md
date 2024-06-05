@@ -18,5 +18,6 @@
   <br>
   <img src="https://img.shields.io/badge/React query-FF4154?style=for-the-badge&logo=React query&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+    <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
   <br>
 </div>
